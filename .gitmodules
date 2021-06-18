@@ -1,0 +1,6 @@
+[submodule "fuzzy"]
+	path = fuzzy
+	url = https://github.com/verificarlo/fuzzy.git
+[submodule "significantdigits"]
+	path = significantdigits
+	url = https://github.com/verificarlo/significantdigits.git
